@@ -4,6 +4,7 @@ email: subscriptionboxesandgifts@gmail.com
 description: The best subscription boxes and 'of the month clubs' for christmas gifts this year.
 url: "http://subscriptionboxesandgifts.com"
 twitter_username: alexjdenne
+baseurl: '/subscriptionboxesandgifts'
 
 # Build settings
 markdown: kramdown
